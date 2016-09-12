@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - xxl_job@localhost" uuid="be736a22-f754-4638-9a6a-419421fa3271">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="MySQL - dts@192.168.226.36" uuid="4b6c2634-7c35-4cf8-bca9-28dea4f00973">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

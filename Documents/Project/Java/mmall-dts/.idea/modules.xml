@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dts-admin/dts-admin.iml" filepath="$PROJECT_DIR$/dts-admin/dts-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dts-admin/dts-admin.iml" filepath="$PROJECT_DIR$/dts-admin/dts-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dts-client/dts-client.iml" filepath="$PROJECT_DIR$/dts-client/dts-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dts-client/dts-client.iml" filepath="$PROJECT_DIR$/dts-client/dts-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dts-core/dts-core.iml" filepath="$PROJECT_DIR$/dts-core/dts-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dts-core/dts-core.iml" filepath="$PROJECT_DIR$/dts-core/dts-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmall-dts.iml" filepath="$PROJECT_DIR$/mmall-dts.iml" />
+    </modules>
+  </component>
+</project>
